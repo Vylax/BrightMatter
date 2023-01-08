@@ -1,3 +1,3 @@
 # BrightMatter
 
-This is a clone project of the game LightMatter I worked on.
+This is a clone project (original game: game LightMatter) I worked on.
